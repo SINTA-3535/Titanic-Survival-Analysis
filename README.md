@@ -87,11 +87,7 @@ This project addresses these questions through structured data analysis and visu
 
 > *(Replace with your actual dashboard screenshots)*
 
-![Dashboard Overview](assets/dashboard_overview.png)
-
-![Survival Analysis](assets/survival_analysis.png)
-
-![Passenger Demographics](assets/passenger_demographics.png)
+![Dashboard Overview](<div class='tableauPlaceholder' id='viz1781524767391' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ti&#47;Titanic_17811772520130&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Titanic_17811772520130&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ti&#47;Titanic_17811772520130&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1781524767391');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1024px';vizElement.style.height='795px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1024px';vizElement.style.height='795px';} else { vizElement.style.width='100%';vizElement.style.height='1277px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>)
 
 ---
 
@@ -156,19 +152,3 @@ Titanic-Survival-Analysis/
 
 ---
 
-## 🚀 Project Outcome
-
-This project successfully transformed raw passenger data into actionable insights through data cleaning, analysis, and visualization. The findings highlight how factors such as gender, passenger class, age, and fare significantly influenced survival outcomes on the Titanic.
-
----
-
-## 👨‍💻 Author
-
-**Sinta Richard**
-
-Final Year Electrical & Computer Engineering Student
-
-Aspiring Data Analyst | Machine Learning Enthusiast
-
----
-⭐ If you found this project useful, consider giving it a star.
