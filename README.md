@@ -4,7 +4,7 @@
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)
-![Tableau](https://img.shields.io/badge/Visualization-Tableau-green)
+![Tableau](https://img.shields.io/badge/Visualization-Tableau-yellow)
 
 
 ---
