@@ -1,6 +1,6 @@
 # 🚢 Titanic Survival Analysis
 
-### 📊 End-to-End Data Analytics Project | Python • SQL • Power BI
+### 📊 End-to-End Data Analytics Project | Python • SQL • Tableau
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-green)
